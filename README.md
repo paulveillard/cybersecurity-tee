@@ -1,1 +1,1 @@
-# cybersecurity-tee
+# Trusted execution environment (TEE)
